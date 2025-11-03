@@ -59,8 +59,7 @@ Using Stable-Baselines3’s PPO (Proximal Policy Optimization) algorithm, the AI
 
 Clone this repository:
 
-git clone https://github.com/Aswinx05/flappy_bird.git
-cd flappy_bird
+git clone https://github.com/manoj2577/flappy_bird.git
 
 Install dependencies:
 
@@ -112,9 +111,9 @@ The AI starts by random actions and gradually learns the timing of jumps.
 
 🧑‍💻 Author
 
-Aswin Ananth S
+Manoj Kumar
 🎓 Mini Project — Flappy Bird with AI Agent using Reinforcement Learning
-📂 GitHub Repository - https://github.com/Aswinx05/flappy_bird.git
+📂 GitHub Repository - https://github.com/manoj2577/flappy_bird.git
 
 
 📜 License
